@@ -1,0 +1,1 @@
+./Scenario-Generator.exe --output_dir=D:\Scenario-Generator\ --num_periods=1200 --frequency=m --num_scenarios=100000 --param_file=Scn-Gen-params.json -t=1

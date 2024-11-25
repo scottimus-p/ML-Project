@@ -1,0 +1,9 @@
+{
+    "in": "D:\\Scenario-Generator\\",
+    "out": "D:\\GMIB\\",
+    "num_periods": 1200,
+    "num_scenarios": 100000,
+    "maturity_age": 70,
+    "growth_rate": 0.05,
+    "deposit": 100000
+}

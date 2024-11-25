@@ -1,0 +1,1 @@
+./GMIB.exe -p ./GMIB-params.json

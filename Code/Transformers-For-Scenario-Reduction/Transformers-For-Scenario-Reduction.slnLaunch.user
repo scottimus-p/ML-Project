@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "GMIB",
+    "Projects": [
+      {
+        "Path": "GMIB\\GMIB.vcxproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

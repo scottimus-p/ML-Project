@@ -1,0 +1,12 @@
+#pragma once
+
+enum class FundType
+{
+    DIVERSIFIED,
+    INTERNATIONAL,
+    INTERMEDIATE,
+    AGGRESSIVE,
+    MONEY_MARKET,
+    GOVT_INTERMEDIATE,
+    CORPORATE_LONG
+};
